@@ -1,2 +1,2 @@
-# OpenAlex_TR
-OpenAlexR Package 
+# openalexR Paketinin Kullanımı
+Usage of openalexR 
